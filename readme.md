@@ -37,13 +37,13 @@ website grid on the page.
 
 #### Specific Steps:
 
-Terminal:
+Terminal
 1. Open up your terminal (windows powershell)
 2. Navigate to the appropriate folder making sure all project files are stored in the same place.
 3. Type 'python entertainment_center.py'
 4. A browser should start with the movies displayed!
 
-Python IDLE:
+Python IDLE
 1. Open the entertainment_center.py file (Making sure all project files in same place)
 2. Once the file is opened, click Run > Run Module
 3. A browser should start with the movies displayed!
